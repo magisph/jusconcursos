@@ -1,0 +1,7 @@
+/* style.css */
+/* Estilos do app separados conforme definidos anteriormente */
+body {
+  font-family: 'Inter', sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+/* ...demais estilos... */
